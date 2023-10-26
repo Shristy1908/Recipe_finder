@@ -178,7 +178,7 @@ const AppComponent = () => {
           Recipe Finder
         </AppName>
         <SearchBox>
-          <SearchIcon src="/search.jpg" />
+          <SearchIcon src="/Search.jpg" />
           <SearchInput
             placeholder="Search Recipe"
             value={searchQuery}
